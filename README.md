@@ -1,2 +1,7 @@
-# ylin29422
-My personal repository 
+# About me
+
+## Technologies
+
+- Python
+- Git
+- GitHub
